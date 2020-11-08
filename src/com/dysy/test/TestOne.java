@@ -9,5 +9,6 @@ public class TestOne {
         System.out.println("hello word!");
         System.out.println("idea update!");
         System.out.println("hello word! git edit");
+        System.out.println("hello word! git edit agin");
     }
 }
